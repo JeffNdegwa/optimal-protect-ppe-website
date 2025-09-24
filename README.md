@@ -1,6 +1,6 @@
 # Optimal Protect PPE
 
-Optimal Protect PPE is an e-commerce platform designed for the sale and distribution of high-quality Personal Protective Equipment (PPE). The website provides a smooth shopping experience, secure transactions, and a responsive user interface to ensure accessibility across all devices.
+Optimal Protect PPE is an e-commerce platform designed for the sale and distribution of high-quality Personal Protective Equipment (PPE). The website provides a smooth shopping experience, a responsive user interface to ensure accessibility across all devices and the capability to scale to full functionality with secure payment integration, user authentication, order tracking and an admin dashboard.
 
 ## Features
 * Product Catalog – Browse a wide range of PPE products including masks, gloves, sanitizers, face shields, and more.
@@ -13,9 +13,11 @@ Optimal Protect PPE is an e-commerce platform designed for the sale and distribu
 
 * Order Management – Track orders from purchase to delivery.
 
-* Secure Payments – Integrated payment gateway for safe transactions.
-
 * Responsive Design – Optimized for both desktop and mobile devices.
+
+* Payment integration can be easily done (but was not required for this project).
+
+
 
 
 ## Tech Stack
